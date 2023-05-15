@@ -27,6 +27,8 @@ justify-content: space-evenly;
 .section-heading{font-size: 12rem;
     font-weight: 900;
 color:white;
-text-align: ;
+text-align: center;
+text-transform:capitalize ;
+letter-spacing: 0.5rem;
 }
 /* end of section-1 */
