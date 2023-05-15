@@ -30,5 +30,12 @@ color:white;
 text-align: center;
 text-transform:capitalize ;
 letter-spacing: 0.5rem;
+text-shadow: 0.3rem,0.3rem,0.3rem #000;
+}
+
+.section-1-icons i{font-size: 35rem;
+    color: #a79a2d;
+    position: absolute;
+    text-shadow: 0.2rem 0.2rem o.2rem #000
 }
 /* end of section-1 */
